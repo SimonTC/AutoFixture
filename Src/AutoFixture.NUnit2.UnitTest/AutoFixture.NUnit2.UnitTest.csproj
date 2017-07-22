@@ -10,7 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="NUnit" Version="2.6.2" />
+    <PackageReference Include="NUnit" Version="2.6.4" />
   </ItemGroup>
 
   <ItemGroup>
@@ -21,7 +21,7 @@
 
   <ItemGroup>
     <Reference Include="nunit.core.interfaces">
-      <HintPath>..\..\References\NUnit.2.6.2\nunit.core.interfaces.dll</HintPath>
+      <HintPath>..\..\References\NUnit.2.6.4\nunit.core.interfaces.dll</HintPath>
     </Reference>
   </ItemGroup>
 </Project>
